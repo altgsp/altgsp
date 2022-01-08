@@ -38,14 +38,19 @@ object **GÊ** {
 
 ## **GitHub Estatísticas**
 
+<p align="center">
+  <a href="https://github.com/altgsp">
+   
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altgsp&theme=dracula&hide_langs_below=1" />
+  <img
+      align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altgsp&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=altgsp&show_icons=true&theme=dracula&line_height=27" alt="**GÊ SANTOS** github stats"/>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=altgsp&show_icons=true&theme=dracula&line_height=27" alt="**GÊ SANTOS** github stats"/>
 </a>
-
+   </p>
+   
 [website]: https://codedev.ga/
 [instagram]: https://www.instagram.com/ge.sp/
 [linkedin]: https://www.linkedin.com/in/gesantosp/
