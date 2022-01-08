@@ -12,7 +12,7 @@ object **GÊ** {
  val acknowledgements = "DESENVOLVIMENTO FRONT-END"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("HTML", "CSS", "JavaScript", "Bootstrap", "React", "Angular", "Firebase") 
+ val languages = listOf("HTML", "CSS", "JavaScript", "Bootstrap", "React", "Angular", "Firebase", NodeJS) 
 
 }
 ```
@@ -22,6 +22,7 @@ object **GÊ** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
