@@ -1,4 +1,4 @@
-### Oie, eu sou a Gê 👋
+### Oie, eu sou Gê 👋
 
 Sou uma dev front-end aprendiz.
 
