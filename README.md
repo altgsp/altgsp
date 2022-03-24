@@ -29,9 +29,8 @@ object **GÊ** {
 </p>
 <br>
 
-<p>
 ### <b>:brain: &nbsp;Focada em:</b></summary><br/>
-
+<p>
 👉 NEXT.JS + REACT
 <br>
 </p>
