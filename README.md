@@ -12,7 +12,8 @@ object **GÊ** {
  val acknowledgements = "DESENVOLVIMENTO FRONT-END"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("HTML", "CSS", "JavaScript", "Bootstrap", "React", "Angular", "Firebase", NodeJS) 
+ val languages = listOf("HTML", "CSS", "JavaScript", "Bootstrap",
+ "React", "Angular", "Firebase", "NodeJS", "Vue.js") 
 
 }
 ```
@@ -28,10 +29,12 @@ object **GÊ** {
 </p>
 <br>
 
+<p>
 ### <b>:brain: &nbsp;Focada em:</b></summary><br/>
 
 👉 NEXT.JS + REACT
 <br>
+</p>
 
 ## **Linguagens e Ferramentas:**  
 
