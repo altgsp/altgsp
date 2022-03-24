@@ -31,7 +31,7 @@ object **GÊ** {
 
 ### <b>:brain: &nbsp;Focada em:</b></summary><br/>
 <p>
-👉 NEXT.JS + REACT
+👉 NEXT.JS + REACT + VUE
 <br>
 </p>
 
