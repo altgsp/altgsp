@@ -65,8 +65,6 @@ Por isso, em 2021 me dediquei inteiramente a isso, depois de muitos cursos e um 
 [linkedin]: https://www.linkedin.com/in/gesantosp/
 <br>
 
-#### Rede Sociais!
+#### Redes Sociais!
 
-🏡 [website][website] **|** 
-
-👔 [linkedin][linkedin]
+🏡 [website][website] **|** 👔 [linkedin][linkedin]
