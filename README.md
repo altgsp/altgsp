@@ -2,11 +2,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/405145/screenshots/4167903/media/0fbbee1ffce11ad778af2bc90e7185ba.gif" />
-
-
-
- 💬 <b> Sobre mim </b>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/405145/screenshots/4167903/media/0fbbee1ffce11ad778af2bc90e7185ba.gif" /> 💬 <b> Sobre mim </b>
 
 Me formei em Direito em 2019, e após trabalhar por 2 anos e meio como Assistente Jurídica, passei por um período de frustração na minha área de formação e decidi me aventurar na área de tecnologia. Até fiz alguns cursos de Data Science, mas me apaixonei pelo desenvolvimento Front End.
 
