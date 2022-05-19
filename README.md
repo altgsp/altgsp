@@ -1,22 +1,10 @@
 ### Oi, eu sou Gê 👋
 
-uma dev front-end aprendiz.
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/405145/screenshots/4167903/media/0fbbee1ffce11ad778af2bc90e7185ba.gif" />
 
-```kotlin
-object **GÊ** {
- val name = "GEISA SANTOS"
- val acknowledgements = "DESENVOLVIMENTO FRONT-END"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("HTML", "CSS", "JavaScript", "Bootstrap",
- "React", "Angular", "Firebase", "NodeJS", "Vue.js") 
 
-}
-```
 
 ### 💬 Sobre mim
 
