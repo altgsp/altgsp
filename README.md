@@ -6,7 +6,7 @@
 
 
 
-### 💬 Sobre mim
+ 💬 <b> Sobre mim </b>
 
 Me formei em Direito em 2019, e após trabalhar por 2 anos e meio como Assistente Jurídica, passei por um período de frustração na minha área de formação e decidi me aventurar na área de tecnologia. Até fiz alguns cursos de Data Science, mas me apaixonei pelo desenvolvimento Front End.
 
