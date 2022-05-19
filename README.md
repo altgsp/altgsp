@@ -61,12 +61,12 @@ Por isso, em 2021 me dediquei inteiramente a isso, depois de muitos cursos e um 
    </p>
    
 [website]: https://codedev.ga/
-[instagram]: https://www.instagram.com/ge.sp/
+
 [linkedin]: https://www.linkedin.com/in/gesantosp/
 <br>
 
 #### Rede Sociais!
 
 🏡 [website][website] **|** 
-📷 [instagram][instagram] **|** 
+
 👔 [linkedin][linkedin]
