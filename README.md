@@ -2,14 +2,17 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/405145/screenshots/4167903/media/0fbbee1ffce11ad778af2bc90e7185ba.gif" /> 💬 <b> Sobre mim </b>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/405145/screenshots/4167903/media/0fbbee1ffce11ad778af2bc90e7185ba.gif" /> 
+
+
+### 💬 Sobre mim
 
 Me formei em Direito em 2019, e após trabalhar por 2 anos e meio como Assistente Jurídica, passei por um período de frustração na minha área de formação e decidi me aventurar na área de tecnologia. Até fiz alguns cursos de Data Science, mas me apaixonei pelo desenvolvimento Front End.
 
 Por isso, em 2021 me dediquei inteiramente a isso, depois de muitos cursos e um bootcamp, hoje busco uma vaga como Desenvolvedora Front End Júnior 👩🏾‍💻.
 
 
-### <b>:brain: &nbsp;Aprendendo</b></summary><br/>
+### :brain: &nbsp;Aprendendo</summary><br/>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="SASS" width="40" height="40"/>
 <img src="https://yt3.ggpht.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj" alt="tailwind" title="TAILWIND" width="40" height="40"/>
