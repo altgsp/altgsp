@@ -7,9 +7,9 @@
 
 ### 💬 Sobre mim
 
-Me formei em Direito em 2019, e após trabalhar por 2 anos e meio como Assistente Jurídica, passei por um período de frustração na minha área de formação e decidi me aventurar na área de tecnologia. Até fiz alguns cursos de Data Science, mas me apaixonei pelo desenvolvimento Front End.
+Me formei em Direito em 2019, e após trabalhar por 2 anos e meio como Assistente Jurídica, mas com a pandemia e as demissões em massa, decidi me aventurar na área de tecnologia. Fiz alguns cursos de Data Science, mas me apaixonei pelo desenvolvimento Front End.
 
-Por isso, em 2021 me dediquei inteiramente a isso, depois de muitos cursos e um bootcamp, hoje busco uma vaga como Desenvolvedora Front End Júnior 👩🏾‍💻.
+Por isso, em 2021 me dediquei inteiramente a isso, depois de muitos cursos e um bootcamp, em 2022 iniciei numa empresa tech como Desenvolvedora Front End Júnior 👩🏾‍💻 onde eu tenho aprendido e evoluído aprimorando meus conhecimentos cada vez mais.
 
 
 ### :brain: &nbsp;Aprendendo</summary><br/>
