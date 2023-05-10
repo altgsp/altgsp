@@ -9,7 +9,7 @@
 
 Me formei em Direito em 2019, após trabalhar por 2 anos e meio como Assistente Jurídica, com a pandemia e as demissões em massa, decidi me aventurar na área de tecnologia. Fiz alguns cursos de Data Science, mas me apaixonei pelo desenvolvimento Front End.
 
-Por isso, desde 2020 me dediquei inteiramente a programação, depois de muitos cursos e um bootcamp, comecei a trabalhar como freelancer em projetos de correções de bugs e criando sites e aplicativos com um grupo de devs, já em 2022 iniciei numa empresa tech como Desenvolvedora Front End Júnior 👩🏾‍💻 onde eu venho aprendendo, evoluindo e aprimorando meus conhecimentos cada vez mais.
+Por isso, desde 2020 me dediquei inteiramente a programação, depois de muitos cursos e um bootcamp, comecei a trabalhar como freelancer em projetos menores de correções de bugs de sites, com o tempo avancei para criação sites e aplicativos com um grupo de devs; Já em 2022 iniciei numa empresa tech como Desenvolvedora Front-End Júnior 👩🏾‍💻 onde eu venho aprendendo, evoluindo e aprimorando meus conhecimentos cada vez mais.
 
 
 ### :brain: &nbsp;Aprendendo</summary><br/>
@@ -17,7 +17,8 @@ Por isso, desde 2020 me dediquei inteiramente a programação, depois de muitos 
 
 <p align="left"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="FIGMA" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="GIT" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" title="SWIFT" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" title="RUBY" width="40" height="40"/>
 </p>
 <br>
 
