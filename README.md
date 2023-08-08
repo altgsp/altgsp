@@ -16,7 +16,7 @@ Por isso, desde 2020 me dediquei inteiramente a programação, depois de muitos 
 
 
 <p align="left"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="FIGMA" width="40" height="40"/>
+
 <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" title="SWIFT" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" title="RUBY" width="40" height="40"/>
 </p>
