@@ -1,71 +1,118 @@
-### Oi, eu sou a Gê 👋
+## About me :rainbow:
+### (she / her)
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+#### :small_orange_diamond: Web Developer Front End (Angular/React/Vue) @PMWEB 
+#### :small_orange_diamond: Full Stack Web Developer graduated from @SoulCodeAcademy
+#### :small_orange_diamond: JavaScript Developer graduated from @RecodePro
+#### :small_orange_diamond: iOS/Swift Developer graduated from @AppleDeveloperAcademy
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/405145/screenshots/4167903/media/0fbbee1ffce11ad778af2bc90e7185ba.gif" /> 
+## Languages, libraries and frameworks :computer: 
 
-
-### 💬 Sobre mim
-
-Me formei em Direito em 2019, após trabalhar por 2 anos e meio como Assistente Jurídica, com a pandemia e as demissões em massa, decidi me aventurar na área de tecnologia. Fiz alguns cursos de Data Science, mas me apaixonei pelo desenvolvimento Front End.
-
-Por isso, desde 2020 me dediquei inteiramente a programação, depois de muitos cursos e um bootcamp, comecei a trabalhar como freelancer em projetos menores de correções de bugs de sites, com o tempo avancei para criação sites e aplicativos com um grupo de devs; Já em 2022 iniciei numa empresa tech como Desenvolvedora Front-End 👩🏾‍💻 onde eu venho aprendendo, evoluindo e aprimorando meus conhecimentos cada vez mais.
-
-
-### :brain: &nbsp;Aprendendo</summary><br/>
-
-
-<p align="left"> 
-
+#### Mobile
 <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" title="SWIFT" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" title="RUBY" width="40" height="40"/>
+
+#### Front-end
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40"
+        height="40" title="html5" />
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40"
+        height="40" title="css3" />
+</a>
+<a href="https://getbootstrap.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"
+        width="40" height="40" title="bootstrap" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"
+        width="40" height="40" title="javascript" />
+</a>
+<a href="https://jquery.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery"
+        width="40" height="40" title="jquery" />
+</a>
+<a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"
+        width="40" height="40" title="typescript" />
+</a>
+<a href="https://angular.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular"
+        width="40" height="40" title="angular" />
+</a>
+<img width="40" height="40" title="vue.js" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
+<img width="40" height="40" title="react.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png"/>
+
+#### Back-end
+
+<a href="https://devdocs.io/c/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="c" width="40"
+        height="40" title="c" />
+</a>
+
+<a href="https://spring.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40"
+        height="40" title="spring" />
+</a>
+<a href="https://nodejs.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"
+        height="40" title="nodejs" />
+</a>
+<a href="https://www.npmjs.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40"
+        height="40" title="npm" />
+</a>
+<a href="https://devdocs.io/bash/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40"
+        height="40" title="bash" />
+</a>
+
+#### Database
+<a href="https://firebase.google.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40"
+        height="40" title="firebase" />
+</a>
+<a href="https://www.mongodb.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
+        width="40" height="40" title="mongodb" />
+</a>
+<a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
+        width="40" height="40" title="mysql" />
+</a>
 </p>
-<br>
 
-### <b>:brain: &nbsp;Focada em:</b></summary><br/>
-<p>
-👉 NEXT.JS + REACT + VUE
-<br>
-</p>
+## Tools :wrench:
 
-## **Linguagens e Ferramentas:**  
+![Visual Studio
+Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+#147EFB
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
-<code><img height="30" src="https://yt3.ggpht.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-
-
-
-## **GitHub Estatísticas**
+## Status :octocat:
 
 <p align="center">
-  <a href="https://github.com/altgsp">
-   
-<a href="https://github.com/Gurupreet">
-  <img
-      align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altgsp&theme=dracula&hide_langs_below=1" />
-</a>
+    <a href="https://github.com/altgsp">
+        <img align="center" height="150em"
+            src="https://github-readme-stats.vercel.app/api?username=Carol-Rodrigues&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" />
+    </a>
+    <a href="https://github.com/altgsp">
+        <img align="center" height="150em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rodrigues&show_icons=true&include_all_commits=true&hide=html&count_private=true&layout=compact&theme=onedark" />
+    </a>
 
-<a href="https://github.com/Gurupreet">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=altgsp&show_icons=true&theme=dracula&line_height=27" alt="**GÊ SANTOS** github stats"/>
-</a>
-   </p>
-   
-[website]: https://codedev.ga/
+## Contact me :email:
+  
+<p align="center">
+    <a href="https:/www.linkedin.com/in/gesantosp/">
+        <img align="center"
+            src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF" </a>
+        <a href="mailto:geisa.santos.dir@gmail.com">
+            <img align="center"
+                src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF" />
+        </a>
+</p>
 
-[linkedin]: https://www.linkedin.com/in/gesantosp/
-<br>
 
-#### Redes Sociais!
-
-🏡 [website][website] **|** 👔 [linkedin][linkedin]
