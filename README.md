@@ -1,7 +1,7 @@
 ## About me :rainbow:
 ### (she / her)
 
-#### :small_orange_diamond: Web Developer Front End (Angular/React/Vue) @PMWEB 
+#### :small_orange_diamond: Front End Web Developer (Angular/React/Vue) @PMWEB 
 #### :small_orange_diamond: Full Stack Web Developer graduated from @SoulCodeAcademy
 #### :small_orange_diamond: JavaScript Developer graduated from @RecodePro
 #### :small_orange_diamond: iOS/Swift Developer graduated from @AppleDeveloperAcademy
