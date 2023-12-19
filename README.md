@@ -95,11 +95,11 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&log
 <p align="center">
     <a href="https://github.com/altgsp">
         <img align="center" height="150em"
-            src="https://github-readme-stats.vercel.app/api?username=Carol-Rodrigues&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" />
+            src="https://github-readme-stats.vercel.app/api?username=altgsp&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" />
     </a>
     <a href="https://github.com/altgsp">
         <img align="center" height="150em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rodrigues&show_icons=true&include_all_commits=true&hide=html&count_private=true&layout=compact&theme=onedark" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=altgsp&show_icons=true&include_all_commits=true&hide=html&count_private=true&layout=compact&theme=onedark" />
     </a>
 
 ## Contact me :email:
