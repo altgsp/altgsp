@@ -10,7 +10,6 @@
 
 #### Mobile
 <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" title="SWIFT" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" title="RUBY" width="40" height="40"/>
 
 #### Front-end
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
@@ -85,9 +84,9 @@
 
 ## Tools :wrench:
 
+![XCode](https://img.shields.io/badge/-X%20Code-333333?style=flat&logo=X-code&logoColor=007ACC)
 ![Visual Studio
 Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-#147EFB
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
