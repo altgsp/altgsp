@@ -40,8 +40,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular"
         width="40" height="40" title="angular" />
 </a>
-<img width="40" height="40" title="vue.js" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
-<img width="40" height="40" title="react.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png"/>
+<a href="https://vuejs.org/">
+    <img width="40" height="40" title="vue.js" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
+</a>
+<a href="https://react.dev/">
+    <img width="40" height="40" title="react.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png"/>
+</a>
+
 
 #### Back-end
 
