@@ -50,6 +50,11 @@
 
 #### Back-end
 
+<a href="https://devdocs.io/c/](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg](https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40"
+        height="40" title="c#" />
+</a>
+
 <a href="https://devdocs.io/c/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="c" width="40"
         height="40" title="c" />
