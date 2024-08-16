@@ -50,13 +50,16 @@
 
 #### Back-end
 
-<a href="https://vuejs.org/">
-    <img width="40" height="40" title="vue.js" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
-</a>
+
 
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/512px-Logo_C_sharp.svg.png?20221121173824" alt="c#" width="40"
         height="40" title="c#" />
+</a>
+
+<a href="https://learn.microsoft.com/pt-br/dotnet/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png?20210328084203" alt="dot net" width="40"
+        height="40" title="dot net" />
 </a>
 
 <a href="https://devdocs.io/c/">
