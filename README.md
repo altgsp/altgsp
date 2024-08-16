@@ -40,7 +40,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular"
         width="40" height="40" title="angular" />
 </a>
-<a href="https://vuejs.org/">
+<a href="https://vuejs.org/" target="_blank">
     <img width="40" height="40" title="vue.js" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
 </a>
 <a href="https://react.dev/">
@@ -50,8 +50,12 @@
 
 #### Back-end
 
-<a href="https://devdocs.io/c/](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg](https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40"
+<a href="https://vuejs.org/">
+    <img width="40" height="40" title="vue.js" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
+</a>
+
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/512px-Logo_C_sharp.svg.png?20221121173824" alt="c#" width="40"
         height="40" title="c#" />
 </a>
 
